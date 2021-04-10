@@ -1,6 +1,6 @@
 # About this docker image
 
-This is a custom Docker image for [ocserv](http://www.infradead.org/ocserv/) which is a SSL VPN server.
+This is a custom Docker image for [ocserv](http://www.infradead.org/ocserv/), which is an SSL VPN server.
 
 The image is based on alpine 3.12 and ocserv 1.0.1, and it works properly with Cisco AnyConnect 4.10.00072.
 
