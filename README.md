@@ -7,7 +7,7 @@ The image is based on alpine 3.12 and ocserv 1.0.1, and it works with Cisco AnyC
 ## Build docker image
 
 ```bash
-$ docker build -t ocserv https://github.com/blackgiulia/docker-ocserv.git
+$ docker build -t ocserv https://github.com/theinvisiblemen/docker-ocserv.git
 ```
 
 ## Run docker container
